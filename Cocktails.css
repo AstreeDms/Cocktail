@@ -67,7 +67,7 @@ header p {
     background: url(fond3.jpg);
 }
 
-.horaires:hover {
+.horaires:hover, .fond:hover, .mention:hover {
     transform: scale(1.1);
 }
 
