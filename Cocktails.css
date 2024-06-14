@@ -4,7 +4,7 @@
 
 
 header {
-    background: url(../IMG/background.jpg) fixed bottom;
+    background: url(background.jpg) fixed bottom;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -55,15 +55,15 @@ header p {
 }
 
 .horaires {
-    background: url(../IMG/fond1.jpg);
+    background: url(fond1.jpg);
 }
 
 .mention {
-    background: url(../IMG/fond2.jpg);
+    background: url(fond2.jpg);
 }
 
 .fond {
-    background: url(../IMG/fond3.jpg);
+    background: url(fond3.jpg);
 }
 
 /* Cocktails */
@@ -120,7 +120,7 @@ height: 300px;
 /* Footer */
 
 footer {
-    background: url(../IMG/background.jpg) fixed;
+    background: url(background.jpg) fixed;
     background-position: bottom;
     height: 40px;
     font-size: 18px;
