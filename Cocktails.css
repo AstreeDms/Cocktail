@@ -67,8 +67,9 @@ header p {
     background: url(fond3.jpg);
 }
 
-.horaires::hover {
-    scale: 1.1}
+.horaires:hover {
+    transform: scale(1.1);
+}
 
 /* Cocktails */
 
