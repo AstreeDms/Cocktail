@@ -61,10 +61,12 @@ header p {
 
 .mention {
     background: url(fond2.jpg);
+    cursor: pointer;
 }
 
 .fond {
     background: url(fond3.jpg);
+    cursor: pointer;
 }
 
 .horaires:hover, .fond:hover, .mention:hover {
@@ -101,6 +103,7 @@ height: 300px;
 .cocktail-item {
     display: flex;
     position: relative;
+    cursor: pointer;
 }
 
 .overlay {
